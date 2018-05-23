@@ -1,0 +1,6 @@
+/* pages/image/image.wxss */
+image{
+  background-color: #000;
+  width: 750rpx;
+  height: 400rpx;
+}

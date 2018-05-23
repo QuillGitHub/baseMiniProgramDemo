@@ -1,0 +1,51 @@
+/* pages/brand/brand.wxss */
+text{
+  font-size: 77rpx;
+}
+.test-title{
+  color: red;
+}
+.blue{
+  color: blue;
+}
+
+.section{
+  margin: 15rpx;
+}
+
+.section .section__title{
+  font-weight: bold;
+  font-size: 30rpx;
+}
+
+.flex-wrp{
+  height: 300rpx;
+  flex-direction:column;
+}
+
+.flex-wrp .flex-item{
+  height: 300rpx;
+  float: left;
+  width: 33.33%;
+}
+
+.column-mode{
+  height: auto;
+}
+
+.column-mode .flex-item{
+  clear: both;
+  float: none;
+}
+
+.bc_green{
+  background-color: green;
+}
+
+.bc_red{
+  background-color: red;
+}
+
+.bc_blue{
+  background-color: blue;
+}

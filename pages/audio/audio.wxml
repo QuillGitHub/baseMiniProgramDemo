@@ -1,0 +1,5 @@
+<!--pages/audio/audio.wxml-->
+<audio controls loop src ='http://up.mcyt.net/?down/33219.mp3' name='烟火里的尘埃'
+poster='http://img0.imgtn.bdimg.com/it/u=4225855239,562876802&fm=27&gp=0.jpg' author='华晨宇'>
+</audio>
+

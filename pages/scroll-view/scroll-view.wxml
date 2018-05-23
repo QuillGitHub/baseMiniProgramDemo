@@ -1,0 +1,36 @@
+<!--pages/scroll-view/scroll-view.wxml-->
+<scroll-view scroll-y = "true" scroll-top = "80" 
+scroll-with-animation = "ture" scroll-into-view = "hi1">
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item' id='hi1'>TianFuzhen 22222222222222</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+  <view class='item'>TianFuzhen</view>
+  <view class='item'>xiaoxingyun</view>
+</scroll-view>

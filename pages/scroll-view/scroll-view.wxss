@@ -1,0 +1,10 @@
+/* pages/scroll-view/scroll-view.wxss */
+scroll-view{
+  height: 800rpx;
+}
+
+view{
+  height: 200rpx;
+  margin-bottom:50rpx;
+  background-color: #f4f4f4;
+}

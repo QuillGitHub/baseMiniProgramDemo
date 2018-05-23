@@ -1,0 +1,57 @@
+{
+  "pages":[
+    "pages/map/map",
+    "pages/camera/camera",
+    "pages/image/image",
+    "pages/video/video",
+    "pages/audio/audio",
+    "pages/movable-area/movable-area",
+    "pages/swiper/swiper",
+    "pages/scroll-view/scroll-view",
+    "pages/brand/brand",
+    "pages/index/index",
+    "pages/banner/banner",
+    "pages/product/product",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#ff52bb",
+    "navigationBarTitleText": "Quill",
+    "navigationBarTextStyle":"whiter",
+    "enablePullDownRefresh":true,
+    "backgroundTextStyle": "dark"
+  },
+  "tabBar":{
+    "color":"#070707",
+    "selectedColor": "#d4237a",
+    "backgroundColor": "#f4f4f4",
+    "borderStyle": "white",
+    "position":"bottom",
+    "list": [{
+        "pagePath": "pages/index/index",
+        "text": "marka",
+        "iconPath": "img/Grid1@3x.png",
+        "selectedIconPath": "img/Grid1@3x.png"
+      },
+      {
+        "pagePath": "pages/brand/brand",
+        "text": "marka",
+        "iconPath": "img/shangcheng@3x.png",
+        "selectedIconPath": "img/shangcheng1@3x.png"
+      },
+      {
+        "pagePath": "pages/product/product",
+        "text": "marka",
+        "iconPath": "img/UserProfile@3x.png",
+        "selectedIconPath": "img/UserProfile1@3x.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "marka",
+        "iconPath": "img/YTG@3x.png",
+        "selectedIconPath": "img/YTG1@3x.png"
+      }
+    ]
+  },
+  "debug":true
+}

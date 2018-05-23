@@ -1,0 +1,9 @@
+<!--pages/image/image.wxml-->
+<image mode='aspectFill' src='/img/test.png'>
+</image>
+<image mode='aspectFit' src='/img/test.png'>
+</image>
+<image mode='widthFix' src='/img/test.png'>
+</image>
+<image mode='top' src='/img/test.png'>
+</image>
